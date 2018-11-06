@@ -8,3 +8,5 @@ Functionality :
 
 1. Drag the slider to change in contrast. 
 2. Click on Image to make it full screen.
+
+This code won't work in IE <=11 and opera mini browser.
